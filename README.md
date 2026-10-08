@@ -19,8 +19,11 @@ These are **article-specific** metrics from the matching URL row in [`data/Pages
 | Reporting period | **June 2–8, 2026** |
 | Search type | **Web** |
 
-The article was published on June 2, 2026, two days after the supplied May 31, 2026 launch date of Odysseus.
+The article was published on June 2, 2026, two days after Odysseus launched on May 31, 2026.
 
+## Screenshot
+
+![Google Search Console showing 3,324 clicks and 190,767 impressions for the Odysseus guide, June 2–8, 2026](screenshots/search-console.jpeg)
 ## How the numbers were calculated
 
 **Source:** A Google Search Console performance export provided by the article's author.
